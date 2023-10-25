@@ -15,11 +15,11 @@ You should now be staring at a window similar to the following:
 You can either change the parameters directly in the code, or use OpenSCAD's part customizer.
 
 To enable the customization view uncheck *Hide Customizer* from the *Window* menu.
-![All mould parameters' group in the customizer](images/customizer1.jpg)
-![Detail of the "Mould dimensions" panel](images/customizer2.jpg)
+| ![All mould parameters' group in the customizer](images/customizer1.jpg) | ![Detail of the "Mould dimensions" panel](images/customizer2.jpg) |
 
 ### Export the mould for 3D printing
 * Generate final render: press the *Render* button (shortcut: *F6*)
 * Export the final model as .stl: press the *Export as STL* button (shortcut: *F7*).
 The first time you export, it can take up to a few minutes; grab yourself a coffee.
-* You can inspect the [result](mould.stl) with [Meshlab](https://www.meshlab.net/#download)
+* You can inspect the resulting [mould.stl](mould.stl) with [Meshlab](https://www.meshlab.net/#download)
+![mould.stl opened in MeshLab](images/meshlab.jpg)
