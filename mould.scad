@@ -154,14 +154,6 @@ module base()
             linear_extrude(height=Bottom_text_thickness * 2, center=true)
             text(Bottom_text, size=Bottom_text_size, halign="center", valign="center", $fn=20);
         };
-
-//    translate([0, text_displacement, 0])
-//    info("Renee fish mold", mold_dimensions[2] * 2);
-
-//    color("green")
-//    translate([0, text_displacement, text_thickness])
-//    info("Renee fish mold", mold_dimensions[2]);
-
     };
 };
 
