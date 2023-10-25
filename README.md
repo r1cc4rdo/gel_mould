@@ -23,7 +23,7 @@ To enable the customization view uncheck *Hide Customizer* from the *Window* men
 ### Export the mould for 3D printing
 * Generate final render: press the *Render* button (shortcut: *F6*)
 * Export the final model as .stl: press the *Export as STL* button (shortcut: *F7*).
-The first time you export, it can take up to a few minutes; grab yourself a coffee.
+The first time you render/export, it might take up to a few minutes; grab yourself a coffee.
 * You can inspect the resulting [mould.stl](mould.stl) with [Meshlab](https://www.meshlab.net/#download)
 
 ![mould.stl opened in MeshLab](images/meshlab.jpg)
