@@ -39,7 +39,7 @@ Gel_text_horz_disp = 0; // [-1:0.01:1]
 // Gel text vertical displacement (%)
 Gel_text_vert_disp = -0.6; // [-1:0.01:1]
 
-/* [Mold top text] */
+/* [Mould top text] */
 Enable_top_text = true;
 Top_text = "Angle 25, 16x2 slots";
 // Mold top text size (pt)
@@ -51,7 +51,7 @@ Top_text_horz_disp = 0; // [-1:0.01:1]
 // Mold top text vertical displacement (%)
 Top_text_vert_disp = -0.6; // [-1:0.01:1]
 
-/* [Mold bottom text] */
+/* [Mould bottom text] */
 Enable_bottom_text = true;
 Bottom_text = "Renee Chow lab, Monash U";
 // Mold bottom text size (pt)
@@ -63,7 +63,7 @@ Bottom_text_horz_disp = 0; // [-1:0.01:1]
 // Mold bottom text vertical displacement (%)
 Bottom_text_vert_disp = 0.8; // [-1:0.01:1]
 
-/* [Mold logo] */
+/* [Mould logo] */
 Enable_logo = true;
 Logo_filename = "logo.svg";
 Logo_scale = 1; // [0:0.01:100]
