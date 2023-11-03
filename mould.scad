@@ -8,7 +8,7 @@ Mould_cutout = 0.15; // [0:0.01:0.3]
 // Columns x rows
 Slots_count = [16, 2];
 // Horz/vert spacing (mm)
-Slots_spacing = [1, 2]; // [0:0.01:5]
+Slots_spacing = [1, 2]; // [0:0.01:10]
 // Slots vertical displacement (%)
 Slots_displacement = 0.12; // [-1:0.01:1]
 
