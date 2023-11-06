@@ -1,7 +1,9 @@
 ![Front of the gel mould](images/front.jpg)
 
-# Parametric gel mould
-A parametric mould for mounting fish embryos on gels.
+# Parametric mould on agarose gels
+A parametric mould for mounting fish embryos on agarose gels.
+
+The mould will create wells for the fish to lie in.
 
 ### Instructions
 * Install [OpenSCAD](https://openscad.org/downloads.html)
